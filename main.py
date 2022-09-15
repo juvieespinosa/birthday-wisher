@@ -4,8 +4,8 @@ import pandas
 import random
 
 
-MY_EMAIL = "pythonudemy1989@gmail.com"
-MY_PASSWORD = "fnws fclf xbpq uhco"
+MY_EMAIL = "YOUR_EMAIL"
+MY_PASSWORD = "YOUR_PASSWORD"
 
 today = datetime.now()
 today_tuple = (today.month, today.day)
